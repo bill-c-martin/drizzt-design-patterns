@@ -1,3 +1,3 @@
 <?php
-	class mindFlayer extends humanoid {
-	}
+class mindFlayer extends humanoid {
+}

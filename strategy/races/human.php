@@ -1,3 +1,3 @@
 <?php
-	class human extends humanoid {
-	}
+class human extends humanoid {
+}
